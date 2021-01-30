@@ -1,0 +1,12 @@
+{
+  "name": "AmazonDoge",
+  "version": "1.0",
+  "description": "A Doge will silently judge you every time you visit Amazon.com.",
+   "content_scripts": [{
+    "css": ["style.css"],
+    "js": ["content.js"],
+    "matches": ["https://*.amazon.com/*"]
+  }],
+  "manifest_version": 2,
+  "web_accessible_resources": ["images/doge.png"]
+}

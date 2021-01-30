@@ -1,0 +1,33 @@
+#theDoge {
+	z-index: 999;
+	float: right;
+	position: fixed;
+	width: 20%;
+	bottom: 0;
+	right: 0;
+}
+
+#muchCapitalism {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 24px;
+	color: magenta;
+	z-index: 1000;
+	float: right;
+	position: fixed;
+	width: 20%;
+	bottom: 25%;
+	right: 0;
+}
+
+#wow {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 24px;
+	color: #00ff00; /* bright green */
+	z-index: 1000;
+	float: right;
+	position: fixed;
+	width: 20%;
+	bottom: 20%;
+	right: 0;
+	text-align: right;
+}
