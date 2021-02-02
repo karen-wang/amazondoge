@@ -5,7 +5,27 @@
    "content_scripts": [{
     "css": ["style.css"],
     "js": ["content.js"],
-    "matches": ["https://*.amazon.com/*"]
+    "matches": [
+    	"*://*.amazon.com/*",
+    	"*://*.amazon.ae/*",
+		"*://*.amazon.at/*",
+		"*://*.amazon.ca/*",
+		"*://*.amazon.cn/*",
+		"*://*.amazon.co.jp/*",
+		"*://*.amazon.co.uk/*",
+		"*://*.amazon.com.au/*",
+		"*://*.amazon.com.br/*",
+		"*://*.amazon.com.mx/*",
+		"*://*.amazon.com.sg/*",
+		"*://*.amazon.com.tr/*",
+		"*://*.amazon.com/*",
+		"*://*.amazon.de/*",
+		"*://*.amazon.es/*",
+		"*://*.amazon.fr/*",
+		"*://*.amazon.ie/*",
+		"*://*.amazon.in/*",
+		"*://*.amazon.it/*",
+		"*://*.amazon.nl/*"]
   }],
   "manifest_version": 2,
   "web_accessible_resources": ["images/doge.png"],
