@@ -4,9 +4,11 @@ A Chrome extension where a Doge will silently judge you every time you visit Ama
 ![image info](./images/screenshot.png)
 
 ## TODO
-* Judge international Amazon users as well
-* Load Doge FASTER
+* [x] Judge international Amazon users as well
+* [x] Load Doge FASTER
 * When browsing books Doge will wear glasses and the messages will change
+* International Doge displays international message (do memes still work in different languages??)
+* When browsing smile.amazon.* Doge will become communist Doge
 * ???
 * Profit
 
