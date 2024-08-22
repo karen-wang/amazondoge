@@ -27,8 +27,17 @@
 		"*://*.amazon.it/*",
 		"*://*.amazon.nl/*"]
   }],
-  "manifest_version": 2,
-  "web_accessible_resources": ["images/doge.png"],
+  "manifest_version": 3,
+  "web_accessible_resources": [
+  	{
+      "resources": [
+        "images/*"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    },
+  ],
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
