@@ -6,6 +6,6 @@ A Chrome extension where a Doge will silently judge you every time you visit Ama
 ## TODO
 - [x] Judge international Amazon users as well
 - [x] Load Doge FASTER
-- [] ???
-- [] Profit
+- [ ] ???
+- [ ] Profit
 
