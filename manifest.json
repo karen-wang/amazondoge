@@ -36,7 +36,7 @@
       "matches": [
         "*://*/*"
       ]
-    },
+    }
   ],
   "icons": {
     "16": "images/icon16.png",

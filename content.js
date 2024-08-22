@@ -25,7 +25,7 @@ const amazonURLs = [
 	'*://*.amazon.nl/*',
 ];
 
-const dogeURL = chrome.extension.getURL('images/doge.png');
+const dogeURL = chrome.runtime.getURL('images/doge.png');
 preloadImage(dogeURL);
 
 let doge = document.createElement('img'); 
