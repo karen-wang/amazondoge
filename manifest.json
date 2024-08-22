@@ -1,7 +1,7 @@
 {
   "name": "AmazonDoge",
   "version": "1.1",
-  "description": "let a doge silently judge you every time you visit Amazon.com",
+  "description": "let a doge silently judge you every time you visit Amazon",
    "content_scripts": [{
     "css": ["style.css"],
     "js": ["content.js"],
